@@ -1,0 +1,14 @@
+# Foundry build artifacts
+out/
+cache/
+
+# Forge script broadcast receipts (may contain sender addresses)
+broadcast/
+
+# Local environment - NEVER commit secrets
+.env
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
