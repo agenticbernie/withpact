@@ -151,8 +151,9 @@ user confirms. No contract changes are expected for that step.
 
 ## License
 
-Strict noncommercial. This codebase is licensed under the **PolyForm Noncommercial
-License 1.0.0** (see `LICENSE`): noncommercial use only — **no commercial use, including
-freemium products, SaaS/hosted offerings, or any revenue-generating use**. Any commercial
-use requires a separate written license from the repository owner. Third-party code under
-`lib/` retains its own licenses.
+**Business Source License 1.1** (see `LICENSE`). You may copy, modify, and use this
+codebase for **non-production purposes only** (development, testing, evaluation, research,
+personal use). **No production or commercial use — including paid, freemium, hosted,
+managed, or SaaS offerings — without a separate commercial license** from the repository
+owner. Each version converts to **Apache 2.0** on its Change Date (`2030-09-22` for this
+release). Third-party code under `lib/` retains its own licenses.
